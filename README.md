@@ -6,4 +6,4 @@ Dashboard Link: https://public.tableau.com/app/profile/hema.dharshini.t/viz/Book
 
 Story Link: https://public.tableau.com/app/profile/hema.dharshini.t/viz/Book15_16976199057370/Story1?publish=yes
 
-video demonstration:
+video demonstration: https://drive.google.com/file/d/1QpF2gENAblzCCOo5TRYpWOJseQKdk6of/view?usp=share_link
